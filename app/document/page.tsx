@@ -65,7 +65,7 @@ const documents: DocumentSection[] = [
       { name: "Q.Soft CM (Container Management)", thUrl: "/doc/Q.soft_CM.pdf", created: "14.08.2014 02:51" },
       { name: "Q.Soft APS (Brochure)", thUrl: "/doc/Q_Soft_APS_Brochue(thai).pdf", created: "01.08.2025 10:20" },
       { name: "Q.Soft WMS (Service)", thUrl: "/doc/Q_Soft_Ser-WMS_Brochue(thai).pdf", created: "01.08.2025 10:20" },
-      { name: "Q.Soft PM (Version 1.01)", thUrl: "/doc/Q.Soft_PM_V1Brochue(thai).pdf", created: "01.08.2025 10:20" },
+      { name: "Q.Soft PM (Version 1.01)", thUrl: "/doc/Q.Soft_PM_V2Brochue6904-1.pdf", created: "01.08.2025 10:20" },
       { name: "Q.Soft SMS (Sport Management System)", thUrl: "/doc/Q_Soft_SMS_Brochue.pdf", created: "01.08.2025 10:20" },
       { name: "Q.soft ElectricShield", thUrl: "/doc/QSoftElectricShield.pdf", created: "14.08.2014 02:51" },
       { name: "DPS สำหรับโรงพยาบาล", thUrl: "/doc/DPS_1.pdf", created: "01.08.2025 10:20" },

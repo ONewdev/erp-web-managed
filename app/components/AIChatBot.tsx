@@ -137,7 +137,7 @@ const AIChatBot = () => {
                 }}
             />
 
-            <div className="fixed bottom-6 right-6 z-[9999] font-kanit">
+            <div className="fixed bottom-6 right-6 z-[999] font-kanit">
                 <AnimatePresence mode="wait">
                     {!isOpen ? (
                         /* Floating Toggle Button */

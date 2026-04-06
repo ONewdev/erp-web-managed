@@ -28,7 +28,7 @@ export default function CookieModal() {
 
     return (
         <div
-            className="fixed bottom-10 right-10 z-[999] max-w-[365px] flex flex-col items-center text-center 
+            className="fixed bottom-10 right-10 z-[9999] max-w-[365px] flex flex-col items-center text-center 
                   bg-[var(--brand-blue)] text-white p-6 rounded-[15px] shadow-[0_20px_50px_rgba(0,0,0,0.3)]
                   opacity-100 scale-100 ring-4 ring-[#fcba7f]"
         >

@@ -41,8 +41,8 @@ export default function RootLayout({
           <PageWrapper>{children}</PageWrapper>
           <ScrollToTop />
           <CookieModal />
-          {/* <AIChatBot /> */}
-          <FloatChatGemini />
+          <AIChatBot />
+          {/* <FloatChatGemini /> */}
           <Footer />
           <WelcomePopup />
         </Providers>
